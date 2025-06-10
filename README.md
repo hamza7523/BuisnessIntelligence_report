@@ -1,8 +1,8 @@
-# BuisnessIntelligence_report
+ BuisnessIntelligence_report
 This BI repository contains all the code, data transformations, and visualizations from a comprehensive analysis of Netflix’s content library (2008–2021)
 By combining Python, Pandas, and Power BI, this project explores how Netflix’s catalog evolves over time, uncovers geographic and genre-based patterns, and delivers actionable recommendations for content strategy.
 
-🚀 Key Features
+ Key Features
 Content Production Over Time
 Year-on-year growth analysis (2008–2020) to forecast future production needs and identify seasonal spikes.
 
