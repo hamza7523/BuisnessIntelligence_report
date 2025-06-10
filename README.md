@@ -1,4 +1,4 @@
- BuisnessIntelligence_report
+-BuisnessIntelligence_report
 This BI repository contains all the code, data transformations, and visualizations from a comprehensive analysis of Netflix’s content library (2008–2021)
 By combining Python, Pandas, and Power BI, this project explores how Netflix’s catalog evolves over time, uncovers geographic and genre-based patterns, and delivers actionable recommendations for content strategy.
 
@@ -27,7 +27,7 @@ Git & GitHub for version control
 
 Jupyter Notebook for EDA
 
-📈 Key Insights & Recommendations
+Key Insights & Recommendations
 Production Surge since 2016: Exponential growth peaking in 2020 suggests scaling infrastructure and forecasting models.
 
 Genre Gaps: Dramas and Comedies dominate; invest in Kids’ and Documentary content in high-growth regions.
